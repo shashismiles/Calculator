@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Calculator.SimpleCalculator.CalculatorTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-09-17T10:42:19" hostname="P5LAP-2N8CZM2" time="0.003">
+  <properties/>
+  <testcase name="testDoSub" classname="Calculator.SimpleCalculator.CalculatorTest" time="0.001"/>
+  <testcase name="testDoAdd1" classname="Calculator.SimpleCalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testDoAdd2" classname="Calculator.SimpleCalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testDoDiv1" classname="Calculator.SimpleCalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testDoDiv2" classname="Calculator.SimpleCalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testDoMul1" classname="Calculator.SimpleCalculator.CalculatorTest" time="0.0"/>
+  <testcase name="testDoMul2" classname="Calculator.SimpleCalculator.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
